@@ -47,4 +47,3 @@ The project enhances civic issue management using community participation and tr
 
 [2] Crowdsourcing Systems, 2019
 
-[3] https://github.com/
