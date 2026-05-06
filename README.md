@@ -7,20 +7,20 @@ This project is a community-driven platform for reporting local civic issues lik
 #  Introduction
 Many civic issues remain unresolved due to lack of visibility and prioritization. This project provides a platform where users report problems and vote on their urgency, ensuring important issues get attention.
 
-# 📚 Literature Review
+#  Literature Review
 Existing complaint systems lack public voting and transparency. This project combines crowdsourcing, geolocation, and voting to improve issue prioritization.
 
-# ⚙️ Methodology
+#  Methodology
 Users report issues with images and location. Other users vote on them, and a ranking system prioritizes the most urgent problems. Authorities can be tagged, and issue status is tracked.
 
-# 💻 Implementation
+#  Implementation
 Languages: JavaScript / Dart
 
 Frameworks: React Native / Flutter, Node.js
 
 Tools: Firebase / MongoDB, Google Maps API, GitHub
 
-# 📊 Results
+#  Results
 The system improves issue visibility, user engagement, and prioritization compared to traditional complaint methods.
 
 # ⚠️ Limitations
