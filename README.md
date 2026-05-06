@@ -1,10 +1,10 @@
 # Local-Problem-Reporting-Solution-Voting-App
 A community-driven platform for reporting local civic issues and prioritizing them through public voting to improve transparency and faster resolution.
 
- # 📄 Abstract
+ #  Abstract
 This project is a community-driven platform for reporting local civic issues like road damage, water shortages, and garbage problems. Users can upload issues with location and images, while others vote to prioritize the most urgent ones. The system improves transparency, public participation, and helps authorities focus on critical problems efficiently.
 
-# 📖 Introduction
+#  Introduction
 Many civic issues remain unresolved due to lack of visibility and prioritization. This project provides a platform where users report problems and vote on their urgency, ensuring important issues get attention.
 
 # 📚 Literature Review
