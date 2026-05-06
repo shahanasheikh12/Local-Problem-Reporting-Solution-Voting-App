@@ -23,7 +23,7 @@ Tools: Firebase / MongoDB, Google Maps API, GitHub
 #  Results
 The system improves issue visibility, user engagement, and prioritization compared to traditional complaint methods.
 
-# ⚠️ Limitations
+#  Limitations
 Fake or duplicate reports
 
 Requires active users
@@ -31,7 +31,7 @@ Requires active users
 Limited authority integration
 
 
-# 🚀 Future Scope
+#  Future Scope
 Government integration
 
 AI-based issue detection
@@ -39,7 +39,7 @@ AI-based issue detection
 Reward system for users
 
 
-# ✅ Conclusion
+#  Conclusion
 The project enhances civic issue management using community participation and transparency, making it effective for smart cities.
 
 # 📑 References
