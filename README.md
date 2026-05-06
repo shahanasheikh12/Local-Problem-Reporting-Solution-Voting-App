@@ -42,7 +42,7 @@ Reward system for users
 #  Conclusion
 The project enhances civic issue management using community participation and transparency, making it effective for smart cities.
 
-# 📑 References
+#  References
 [1] Smart City Research, 2020
 
 [2] Crowdsourcing Systems, 2019
